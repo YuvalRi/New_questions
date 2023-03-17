@@ -45,4 +45,3 @@ if __name__ == "__main__":
     steps_to_n(n=0)
     steps_to_n(n=5)
     odd_and_even_sequence(n=7)
-
