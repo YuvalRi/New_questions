@@ -6,10 +6,7 @@ def frequency_dict_2(st: str):
     '''
     dict = {}
     for char in st:
-           if char not in dict.keys():
-                dict[char] = 1
-           else:
-                dict[char] = dict[char] + 1 
+        dict[char] = dict.get(char, 0) + 1
     return(dict)
         
 if __name__ == "__main__":
