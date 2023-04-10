@@ -1,4 +1,4 @@
-# Task 1
+# Task 1 - Basics
 
 # 1
 def right_angle():
