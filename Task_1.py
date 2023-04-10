@@ -15,3 +15,10 @@ def frequency_dict(st: str):
         
 if __name__ == "__main__":
     print(frequency_dict("aadbc"))
+    print(frequency_dict("dbdb"))
+    print(frequency_dict("dddd"))
+    print(frequency_dict(""))
+    print(frequency_dict("powflsdnslsl"))
+
+
+
